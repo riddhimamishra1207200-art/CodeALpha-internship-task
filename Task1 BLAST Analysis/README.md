@@ -1,7 +1,7 @@
 # Task 1: DNA/Protein Sequence Analysis (BLASTp)
 
 **Internship:** CodeAlpha Bioinformatics Internship
-**Protein studied:** Human Hemoglobin Subunit Beta (HBB), UniProt accession P68871
+**Protein studied:** Human Haemoglobin Subunit Beta (HBB), UniProt accession P68871
 
 ## Overview
 This task involved retrieving the human HBB protein sequence from UniProt and running a protein BLAST (BLASTp) search against NCBI's non-redundant protein database to identify homologous sequences across species and detect clinically relevant variants.
